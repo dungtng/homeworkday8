@@ -53,3 +53,4 @@ public class Ex2 {
 		}
 	}
 }
+// time complexity O(n)
